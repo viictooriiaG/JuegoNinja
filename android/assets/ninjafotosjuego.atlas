@@ -1,0 +1,166 @@
+
+ninjafotosjuego.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fondo1
+  rotate: false
+  xy: 1, 702
+  size: 500, 320
+  orig: 500, 320
+  offset: 0, 0
+  index: -1
+fondo2
+  rotate: false
+  xy: 1, 380
+  size: 500, 320
+  orig: 500, 320
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 503, 875
+  size: 200, 147
+  orig: 200, 147
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 1, 261
+  size: 200, 117
+  orig: 200, 117
+  offset: 0, 0
+  index: -1
+moneda1
+  rotate: false
+  xy: 503, 745
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+moneda2
+  rotate: false
+  xy: 705, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+moneda3
+  rotate: false
+  xy: 1, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+moneda4
+  rotate: false
+  xy: 503, 615
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+moneda5
+  rotate: false
+  xy: 835, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+moneda6
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 503, 485
+  size: 123, 128
+  orig: 123, 128
+  offset: 0, 0
+  index: -1
+andar2
+  rotate: false
+  xy: 203, 267
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+andar3
+  rotate: false
+  xy: 333, 267
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+andar4
+  rotate: false
+  xy: 503, 372
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+andar5
+  rotate: false
+  xy: 463, 259
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+andar6
+  rotate: false
+  xy: 633, 762
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+andar7
+  rotate: false
+  xy: 633, 649
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+andar8
+  rotate: false
+  xy: 763, 781
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+andar9
+  rotate: false
+  xy: 763, 668
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+ataque1
+  rotate: false
+  xy: 131, 148
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+ataque2
+  rotate: false
+  xy: 131, 35
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+ataque3
+  rotate: false
+  xy: 261, 154
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+ataque4
+  rotate: false
+  xy: 261, 41
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
